@@ -7,4 +7,4 @@
 'You can reference functions defined in other function libraries by using the compile_xbasic_function_library() function.
 'For example: dim p as p; p = compile_xbasic_function_library("name of library");
 
-dim x as c 
+dim x2 as c 
